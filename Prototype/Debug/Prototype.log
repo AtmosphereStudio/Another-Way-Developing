@@ -1,0 +1,86 @@
+﻿  Game.cpp
+c:\users\art__\desktop\prototype\prototype\header.h(15): warning C4091: static : пропускается слева от "", когда ни одна переменная не объявлена
+c:\users\art__\desktop\prototype\prototype\equip.h(91): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(92): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(97): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(98): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(103): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(104): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(109): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(110): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(115): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(116): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(121): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(122): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(127): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(182): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\equip.h(232): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(236): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(32): warning C4244: /=: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(40): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\art__\desktop\prototype\prototype\person.h(57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(101): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\enemy.h(29): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\art__\desktop\prototype\prototype\enemy.h(41): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\art__\desktop\prototype\prototype\enemy.h(60): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(61): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(69): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(71): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(101): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(103): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(105): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(111): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(113): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(116): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(118): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(122): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(124): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\art__\desktop\prototype\prototype\enemy.h(140): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\art__\desktop\prototype\prototype\player.h(32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.h(58): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(101): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(102): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(139): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(171): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(172): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(174): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(175): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(176): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(178): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(186): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(205): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(232): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(235): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(64): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\art__\desktop\prototype\prototype\gui.h(44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\game.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\art__\desktop\prototype\prototype\game.cpp(127): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\art__\desktop\prototype\prototype\game.cpp(132): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\art__\desktop\prototype\prototype\game.cpp(197): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\art__\desktop\prototype\prototype\game.cpp(202): warning C4018: <: несоответствие типов со знаком и без знака
+  Prototype.vcxproj -> C:\Users\art__\Desktop\Prototype\Debug\Prototype.exe
+  Prototype.vcxproj -> C:\Users\art__\Desktop\Prototype\Debug\Prototype.pdb (Partial PDB)

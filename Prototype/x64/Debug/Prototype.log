@@ -1,0 +1,673 @@
+﻿  tinyxml2.cpp
+  Game.cpp
+c:\users\art__\desktop\prototype\prototype\header.h(15): warning C4091: static : пропускается слева от "", когда ни одна переменная не объявлена
+c:\users\art__\desktop\prototype\prototype\equip.h(91): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(92): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(97): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(98): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(103): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(104): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(109): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(110): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(115): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(116): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(121): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(122): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(127): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(182): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\equip.h(232): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(236): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(32): warning C4244: /=: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(101): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\enemy.h(60): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(61): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(69): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(71): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(101): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(103): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(105): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(111): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(113): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(116): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(118): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(122): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.h(32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(101): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(102): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(139): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(171): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(172): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(174): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(175): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(176): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(178): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(186): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(205): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(232): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(235): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\gui.h(44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Level.cpp
+c:\users\art__\desktop\prototype\prototype\header.h(15): warning C4091: static : пропускается слева от "", когда ни одна переменная не объявлена
+c:\users\art__\desktop\prototype\prototype\equip.h(91): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(92): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(97): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(98): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(103): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(104): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(109): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(110): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(115): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(116): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(121): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(122): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(127): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(182): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\equip.h(232): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(236): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(32): warning C4244: /=: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(101): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\enemy.h(60): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(61): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(69): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(71): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(101): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(103): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(105): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(111): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(113): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(116): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(118): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(122): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.h(32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(101): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(102): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(139): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(171): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(172): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(174): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(175): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(176): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(178): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(186): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(205): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(232): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(235): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\gui.h(44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\level.cpp(7): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\level.cpp(78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\level.cpp(133): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\level.cpp(134): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\level.cpp(135): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\level.cpp(136): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Main.cpp
+c:\users\art__\desktop\prototype\prototype\header.h(15): warning C4091: static : пропускается слева от "", когда ни одна переменная не объявлена
+c:\users\art__\desktop\prototype\prototype\equip.h(91): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(92): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(97): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(98): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(103): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(104): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(109): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(110): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(115): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(116): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(121): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(122): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(127): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(182): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\equip.h(232): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(236): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(32): warning C4244: /=: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(101): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\enemy.h(60): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(61): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(69): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(71): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(101): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(103): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(105): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(111): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(113): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(116): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(118): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(122): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.h(32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(101): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(102): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(139): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(171): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(172): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(174): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(175): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(176): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(178): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(186): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(205): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(232): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(235): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\gui.h(44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Player.cpp
+c:\users\art__\desktop\prototype\prototype\header.h(15): warning C4091: static : пропускается слева от "", когда ни одна переменная не объявлена
+c:\users\art__\desktop\prototype\prototype\equip.h(91): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(92): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(97): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(98): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(103): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(104): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(109): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(110): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(115): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(116): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(121): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(122): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(127): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(182): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\equip.h(232): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(236): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(32): warning C4244: /=: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(101): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\enemy.h(60): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(61): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(69): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(71): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(101): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(103): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(105): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(111): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(113): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(116): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(118): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(122): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.h(32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(101): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(102): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(139): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(171): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(172): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(174): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(175): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(176): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(178): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(186): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(205): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(232): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(235): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\gui.h(44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(25): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(35): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(37): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(42): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.cpp(50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CreateLVL.cpp
+c:\users\art__\desktop\prototype\prototype\header.h(15): warning C4091: static : пропускается слева от "", когда ни одна переменная не объявлена
+c:\users\art__\desktop\prototype\prototype\equip.h(91): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(92): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(97): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(98): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(103): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(104): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(109): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(110): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(115): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(116): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(121): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(122): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(127): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(182): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\equip.h(232): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(236): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(32): warning C4244: /=: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(101): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\enemy.h(60): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(61): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(69): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(71): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(101): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(103): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(105): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(111): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(113): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(116): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(118): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(122): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.h(32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(101): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(102): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(139): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(171): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(172): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(174): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(175): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(176): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(178): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(186): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(205): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(232): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(235): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\gui.h(44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  CollisionEvent.cpp
+c:\users\art__\desktop\prototype\prototype\header.h(15): warning C4091: static : пропускается слева от "", когда ни одна переменная не объявлена
+c:\users\art__\desktop\prototype\prototype\equip.h(91): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(92): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(97): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(98): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(103): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(104): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(109): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(110): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(115): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(116): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(121): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(122): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(127): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(182): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\equip.h(232): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\equip.h(236): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(32): warning C4244: /=: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\attack.h(35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\person.h(101): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\art__\desktop\prototype\prototype\enemy.h(60): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(61): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(69): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(71): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(101): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(103): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(105): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(111): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(113): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(116): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(118): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(122): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\enemy.h(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\player.h(32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(101): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(102): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(139): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(171): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(172): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(174): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(175): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(176): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(178): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(186): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(205): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(232): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\elementsofgui.h(235): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\inventory.h(29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\gui.h(44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(71): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(79): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(81): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(83): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(85): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(93): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(95): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(97): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(106): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(108): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(110): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(112): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(120): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(122): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(130): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(132): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(139): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(146): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(154): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(156): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(158): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(166): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(168): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(175): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(182): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(189): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(196): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(203): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\art__\desktop\prototype\prototype\collisionevent.cpp(210): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+c:\users\art__\desktop\prototype\prototype\level.cpp(152): warning C4715: Level::GetObject: значение возвращается не при всех путях выполнения
+CollisionEvent.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z) в функции "public: void __cdecl TextPanel::draw(class sf::RenderWindow &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?draw@TextPanel@@QEAAXAEAVRenderWindow@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z)"
+CollisionEvent.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ) в функции "public: void __cdecl TextPanel::draw(class sf::RenderWindow &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?draw@TextPanel@@QEAAXAEAVRenderWindow@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+CreateLVL.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)"
+Level.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)"
+CollisionEvent.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)"
+CreateLVL.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)"
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)"
+Main.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)"
+Level.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ)"
+CollisionEvent.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ)"
+CreateLVL.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ)"
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ)"
+Main.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ)"
+CollisionEvent.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::RenderTarget::setView(class sf::View const &)" (__imp_?setView@RenderTarget@sf@@QEAAXAEBVView@2@@Z) в функции "public: void __cdecl GUI::drawTextPanel(class sf::RenderWindow &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?drawTextPanel@GUI@@QEAAXAEAVRenderWindow@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::RenderTarget::setView(class sf::View const &)" (__imp_?setView@RenderTarget@sf@@QEAAXAEBVView@2@@Z)"
+CollisionEvent.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::View const & __cdecl sf::RenderTarget::getView(void)const " (__imp_?getView@RenderTarget@sf@@QEBAAEBVView@2@XZ) в функции "public: void __cdecl GUI::drawTextPanel(class sf::RenderWindow &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?drawTextPanel@GUI@@QEAAXAEAVRenderWindow@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::View const & __cdecl sf::RenderTarget::getView(void)const " (__imp_?getView@RenderTarget@sf@@QEBAAEBVView@2@XZ)"
+CollisionEvent.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::View const & __cdecl sf::RenderTarget::getDefaultView(void)const " (__imp_?getDefaultView@RenderTarget@sf@@QEBAAEBVView@2@XZ) в функции "public: void __cdecl GUI::drawTextPanel(class sf::RenderWindow &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?drawTextPanel@GUI@@QEAAXAEAVRenderWindow@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::View const & __cdecl sf::RenderTarget::getDefaultView(void)const " (__imp_?getDefaultView@RenderTarget@sf@@QEBAAEBVView@2@XZ)"
+CollisionEvent.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z) в функции "public: void __cdecl TextPanel::draw(class sf::RenderWindow &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?draw@TextPanel@@QEAAXAEAVRenderWindow@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Level.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)"
+CollisionEvent.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z) в функции "public: void __cdecl TextPanel::draw(class sf::RenderWindow &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?draw@TextPanel@@QEAAXAEAVRenderWindow@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z)"
+CollisionEvent.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)"
+Level.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ) в функции "public: __cdecl Enemy::Enemy(class sf::String,class std::vector<struct Object,class std::allocator<struct Object> > &,float,float)" (??0Enemy@@QEAA@VString@sf@@AEAV?$vector@UObject@@V?$allocator@UObject@@@std@@@std@@MM@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ) в функции "public: __cdecl Enemy::Enemy(class sf::String,class std::vector<struct Object,class std::allocator<struct Object> > &,float,float)" (??0Enemy@@QEAA@VString@sf@@AEAV?$vector@UObject@@V?$allocator@UObject@@@std@@@std@@MM@Z)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) в функции "public: void __cdecl Game::create_Castle2(void)" (?create_Castle2@Game@@QEAAXXZ)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::String::operator class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >(void)const " (__imp_??BString@sf@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) в функции "public: __cdecl Enemy::Enemy(class sf::String,class std::vector<struct Object,class std::allocator<struct Object> > &,float,float)" (??0Enemy@@QEAA@VString@sf@@AEAV?$vector@UObject@@V?$allocator@UObject@@@std@@@std@@MM@Z)
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z) в функции "public: void __cdecl Person::initDrawingCharacterStyle(void)" (?initDrawingCharacterStyle@Person@@QEAAXXZ)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)"
+Level.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ) в функции "public: __cdecl Person::Person(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float,float)" (??0Person@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MM@Z)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Texture::Texture(class sf::Texture const &)" (__imp_??0Texture@sf@@QEAA@AEBV01@@Z) в функции "public: __cdecl Person::Person(class Person &&)" (??0Person@@QEAA@$$QEAV0@@Z)
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ) в функции "int `public: __cdecl Person::Person(class dtor$1 const &)'::`1'::dtor$1" (?dtor$1@?0???0Person@@QEAA@AEBV0@@Z@4HA)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)"
+Main.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z) в функции "public: __cdecl Person::Person(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float,float)" (??0Person@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@MM@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Texture & __cdecl sf::Texture::operator=(class sf::Texture const &)" (__imp_??4Texture@sf@@QEAAAEAV01@AEBV01@@Z) в функции "public: class Person & __cdecl Person::operator=(class Person &&)" (??4Person@@QEAAAEAV0@$$QEAV0@@Z)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::Texture & __cdecl sf::Texture::operator=(class sf::Texture const &)" (__imp_??4Texture@sf@@QEAAAEAV01@AEBV01@@Z)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z) в функции "public: __cdecl AttackLine::AttackLine(void)" (??0AttackLine@@QEAA@XZ)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z) в функции "public: __cdecl AttackLine::AttackLine(void)" (??0AttackLine@@QEAA@XZ)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ) в функции "int `public: __cdecl AttackLine::AttackLine(void)'::`1'::dtor$0" (?dtor$0@?0???0AttackLine@@QEAA@XZ@4HA)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ)"
+Main.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::RectangleShape const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV01@@Z) в функции "public: __cdecl AttackLine::AttackLine(class AttackLine const &)" (??0AttackLine@@QEAA@AEBV0@@Z)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::RectangleShape const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV01@@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::RectangleShape const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV01@@Z)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::RectangleShape &&)" (__imp_??0RectangleShape@sf@@QEAA@$$QEAV01@@Z) в функции "public: __cdecl AttackLine::AttackLine(class AttackLine &&)" (??0AttackLine@@QEAA@$$QEAV0@@Z)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::RectangleShape &&)" (__imp_??0RectangleShape@sf@@QEAA@$$QEAV01@@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::RectangleShape &&)" (__imp_??0RectangleShape@sf@@QEAA@$$QEAV01@@Z)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::RectangleShape & __cdecl sf::RectangleShape::operator=(class sf::RectangleShape &&)" (__imp_??4RectangleShape@sf@@QEAAAEAV01@$$QEAV01@@Z) в функции "public: class AttackLine & __cdecl AttackLine::operator=(class AttackLine &&)" (??4AttackLine@@QEAAAEAV0@$$QEAV0@@Z)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::RectangleShape & __cdecl sf::RectangleShape::operator=(class sf::RectangleShape &&)" (__imp_??4RectangleShape@sf@@QEAAAEAV01@$$QEAV01@@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::RectangleShape & __cdecl sf::RectangleShape::operator=(class sf::RectangleShape &&)" (__imp_??4RectangleShape@sf@@QEAAAEAV01@$$QEAV01@@Z)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ) в функции "public: void __cdecl Person::initDrawingCharacterStyle(void)" (?initDrawingCharacterStyle@Person@@QEAAXXZ)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)"
+Level.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z) в функции "public: void __cdecl Person::initDrawingCharacterStyle(void)" (?initDrawingCharacterStyle@Person@@QEAAXXZ)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)"
+Level.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z) в функции "public: void __cdecl Person::initDrawingCharacterStyle(void)" (?initDrawingCharacterStyle@Person@@QEAAXXZ)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)"
+Level.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)"
+CreateLVL.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)"
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)"
+Main.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)"
+Level.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z) в функции "public: void __cdecl std::allocator<class sf::Sprite>::construct<class sf::Sprite,class sf::Sprite &>(class sf::Sprite *,class sf::Sprite &)" (??$construct@VSprite@sf@@AEAV12@@?$allocator@VSprite@sf@@@std@@QEAAXPEAVSprite@sf@@AEAV23@@Z)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)"
+Level.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)"
+CreateLVL.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QEAA@$$QEAV01@@Z) в функции "public: void __cdecl std::allocator<class sf::Sprite>::construct<class sf::Sprite,class sf::Sprite>(class sf::Sprite *,class sf::Sprite &&)" (??$construct@VSprite@sf@@V12@@?$allocator@VSprite@sf@@@std@@QEAAXPEAVSprite@sf@@$$QEAV23@@Z)
+Player.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QEAA@$$QEAV01@@Z)"
+Level.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QEAA@$$QEAV01@@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QEAA@$$QEAV01@@Z)"
+CreateLVL.obj : error LNK2001: неразрешенный внешний символ ""private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)"
+Player.obj : error LNK2001: неразрешенный внешний символ ""private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)"
+Level.obj : error LNK2001: неразрешенный внешний символ ""private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)"
+Player.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: int __cdecl sf::Time::asMilliseconds(void)const " (__imp_?asMilliseconds@Time@sf@@QEBAHXZ) в функции "public: void __cdecl Player::control(float,class sf::RenderWindow &,class std::vector<class Enemy,class std::allocator<class Enemy> > &)" (?control@Player@@QEAAXMAEAVRenderWindow@sf@@AEAV?$vector@VEnemy@@V?$allocator@VEnemy@@@std@@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: int __cdecl sf::Time::asMilliseconds(void)const " (__imp_?asMilliseconds@Time@sf@@QEBAHXZ)"
+Player.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ) в функции "public: void __cdecl Player::control(float,class sf::RenderWindow &,class std::vector<class Enemy,class std::allocator<class Enemy> > &)" (?control@Player@@QEAAXMAEAVRenderWindow@sf@@AEAV?$vector@VEnemy@@V?$allocator@VEnemy@@@std@@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ)"
+Player.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z) в функции "public: void __cdecl Player::control(float,class sf::RenderWindow &,class std::vector<class Enemy,class std::allocator<class Enemy> > &)" (?control@Player@@QEAAXMAEAVRenderWindow@sf@@AEAV?$vector@VEnemy@@V?$allocator@VEnemy@@@std@@@std@@@Z)
+Player.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static bool __cdecl sf::Mouse::isButtonPressed(enum sf::Mouse::Button)" (__imp_?isButtonPressed@Mouse@sf@@SA_NW4Button@12@@Z) в функции "public: void __cdecl Player::control(float,class sf::RenderWindow &,class std::vector<class Enemy,class std::allocator<class Enemy> > &)" (?control@Player@@QEAAXMAEAVRenderWindow@sf@@AEAV?$vector@VEnemy@@V?$allocator@VEnemy@@@std@@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: static bool __cdecl sf::Mouse::isButtonPressed(enum sf::Mouse::Button)" (__imp_?isButtonPressed@Mouse@sf@@SA_NW4Button@12@@Z)"
+Player.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindow@2@@Z) в функции "public: void __cdecl Player::control(float,class sf::RenderWindow &,class std::vector<class Enemy,class std::allocator<class Enemy> > &)" (?control@Player@@QEAAXMAEAVRenderWindow@sf@@AEAV?$vector@VEnemy@@V?$allocator@VEnemy@@@std@@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindow@2@@Z)"
+Player.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Window::hasFocus(void)const " (__imp_?hasFocus@Window@sf@@QEBA_NXZ) в функции "public: void __cdecl Player::update(float,class sf::RenderWindow &,class std::vector<class Enemy,class std::allocator<class Enemy> > &)" (?update@Player@@QEAAXMAEAVRenderWindow@sf@@AEAV?$vector@VEnemy@@V?$allocator@VEnemy@@@std@@@std@@@Z)
+Player.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Transformable::setRotation(float)" (__imp_?setRotation@Transformable@sf@@QEAAXM@Z) в функции "public: void __cdecl AttackLine::create(float,float,int,float,class sf::Vector2<float> &)" (?create@AttackLine@@QEAAXMMHMAEAV?$Vector2@M@sf@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: void __cdecl sf::Transformable::setRotation(float)" (__imp_?setRotation@Transformable@sf@@QEAAXM@Z)"
+Player.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Shape::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Shape@sf@@QEBA?AV?$Rect@M@2@XZ) в функции "public: void __cdecl Player::checkCollisionWithMap(float,float,float,class std::vector<class Enemy,class std::allocator<class Enemy> > &)" (?checkCollisionWithMap@Player@@QEAAXMMMAEAV?$vector@VEnemy@@V?$allocator@VEnemy@@@std@@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Shape::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Shape@sf@@QEBA?AV?$Rect@M@2@XZ)"
+Player.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Vector2<float> __cdecl sf::RenderTarget::mapPixelToCoords(class sf::Vector2<int> const &)const " (__imp_?mapPixelToCoords@RenderTarget@sf@@QEBA?AV?$Vector2@M@2@AEBV?$Vector2@H@2@@Z) в функции "public: void __cdecl Player::control(float,class sf::RenderWindow &,class std::vector<class Enemy,class std::allocator<class Enemy> > &)" (?control@Player@@QEAAXMAEAVRenderWindow@sf@@AEAV?$vector@VEnemy@@V?$allocator@VEnemy@@@std@@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::Vector2<float> __cdecl sf::RenderTarget::mapPixelToCoords(class sf::Vector2<int> const &)const " (__imp_?mapPixelToCoords@RenderTarget@sf@@QEBA?AV?$Vector2@M@2@AEBV?$Vector2@H@2@@Z)"
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ) в функции "public: __cdecl Button::~Button(void)" (??1Button@@QEAA@XZ)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ)"
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::Music::~Music(void)" (__imp_??1Music@sf@@UEAA@XZ) в функции "public: __cdecl Game::~Game(void)" (??1Game@@QEAA@XZ)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: virtual __cdecl sf::Music::~Music(void)" (__imp_??1Music@sf@@UEAA@XZ)"
+Level.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ) в функции "public: void __cdecl Level::Draw(class sf::RenderWindow &,class Player &,class std::vector<class Enemy,class std::allocator<class Enemy> > &)" (?Draw@Level@@QEAAXAEAVRenderWindow@sf@@AEAVPlayer@@AEAV?$vector@VEnemy@@V?$allocator@VEnemy@@@std@@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)"
+Level.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z) в функции "public: bool __cdecl Level::LoadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?LoadFromFile@Level@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Level.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Image::Image(void)" (__imp_??0Image@sf@@QEAA@XZ) в функции "public: bool __cdecl Level::LoadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?LoadFromFile@Level@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Image::Image(void)" (__imp_??0Image@sf@@QEAA@XZ)"
+Level.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Image::~Image(void)" (__imp_??1Image@sf@@QEAA@XZ) в функции "public: bool __cdecl Level::LoadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?LoadFromFile@Level@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: __cdecl sf::Image::~Image(void)" (__imp_??1Image@sf@@QEAA@XZ)"
+Level.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Image::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Image@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции "public: bool __cdecl Level::LoadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?LoadFromFile@Level@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: bool __cdecl sf::Image::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Image@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)"
+Level.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromImage(class sf::Image const &,class sf::Rect<int> const &)" (__imp_?loadFromImage@Texture@sf@@QEAA_NAEBVImage@2@AEBV?$Rect@H@2@@Z) в функции "public: bool __cdecl Level::LoadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?LoadFromFile@Level@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Level.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ) в функции "public: bool __cdecl Level::LoadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?LoadFromFile@Level@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)"
+Level.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Texture::setSmooth(bool)" (__imp_?setSmooth@Texture@sf@@QEAAX_N@Z) в функции "public: bool __cdecl Level::LoadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?LoadFromFile@Level@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Level.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Sprite::setColor(class sf::Color const &)" (__imp_?setColor@Sprite@sf@@QEAAXAEBVColor@2@@Z) в функции "public: bool __cdecl Level::LoadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?LoadFromFile@Level@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Time::Time(void)" (__imp_??0Time@sf@@QEAA@XZ) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) class sf::Time __cdecl sf::seconds(float)" (__imp_?seconds@sf@@YA?AVTime@1@M@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) bool __cdecl sf::operator>(class sf::Time,class sf::Time)" (__imp_??Osf@@YA_NVTime@0@0@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) class sf::Time & __cdecl sf::operator+=(class sf::Time &,class sf::Time)" (__imp_??Ysf@@YAAEAVTime@0@AEAV10@V10@@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) class sf::Time & __cdecl sf::operator-=(class sf::Time &,class sf::Time)" (__imp_??Zsf@@YAAEAVTime@0@AEAV10@V10@@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Window::create(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_?create@Window@sf@@QEAAXVVideoMode@2@AEBVString@2@IAEBUContextSettings@2@@Z) в функции "public: void __cdecl Settings::draw(class sf::RenderWindow &,class sf::Sprite &,int &,class GUI &,class MainMenu &,class Help &,class Credits &,class Death &,class End &,class sf::Music &)" (?draw@Settings@@QEAAXAEAVRenderWindow@sf@@AEAVSprite@3@AEAHAEAVGUI@@AEAVMainMenu@@AEAVHelp@@AEAVCredits@@AEAVDeath@@AEAVEnd@@AEAVMusic@3@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Window::setIcon(unsigned int,unsigned int,unsigned char const *)" (__imp_?setIcon@Window@sf@@QEAAXIIPEBE@Z) в функции "public: void __cdecl Settings::initOtherStates(class sf::RenderWindow &,class GUI &,class MainMenu &,class Help &,class Credits &,class Death &,class End &)" (?initOtherStates@Settings@@QEAAXAEAVRenderWindow@sf@@AEAVGUI@@AEAVMainMenu@@AEAVHelp@@AEAVCredits@@AEAVDeath@@AEAVEnd@@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Window::setVerticalSyncEnabled(bool)" (__imp_?setVerticalSyncEnabled@Window@sf@@QEAAX_N@Z) в функции "public: void __cdecl Settings::draw(class sf::RenderWindow &,class sf::Sprite &,int &,class GUI &,class MainMenu &,class Help &,class Credits &,class Death &,class End &,class sf::Music &)" (?draw@Settings@@QEAAXAEAVRenderWindow@sf@@AEAVSprite@3@AEAHAEAVGUI@@AEAVMainMenu@@AEAVHelp@@AEAVCredits@@AEAVDeath@@AEAVEnd@@AEAVMusic@3@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Window::setMouseCursorVisible(bool)" (__imp_?setMouseCursorVisible@Window@sf@@QEAAX_N@Z) в функции "public: void __cdecl Settings::draw(class sf::RenderWindow &,class sf::Sprite &,int &,class GUI &,class MainMenu &,class Help &,class Credits &,class Death &,class End &,class sf::Music &)" (?draw@Settings@@QEAAXAEAVRenderWindow@sf@@AEAVSprite@3@AEAHAEAVGUI@@AEAVMainMenu@@AEAVHelp@@AEAVCredits@@AEAVDeath@@AEAVEnd@@AEAVMusic@3@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z) в функции "public: void __cdecl Label::draw(class sf::RenderWindow &,int)" (?draw@Label@@QEAAXAEAVRenderWindow@sf@@H@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Transformable::scale(float,float)" (__imp_?scale@Transformable@sf@@QEAAXMM@Z) в функции "public: __cdecl Arrow::Arrow(void)" (??0Arrow@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z) в функции "public: void __cdecl StatBar::init(int,int,int,int,class sf::Color)" (?init@StatBar@@QEAAXHHHHVColor@sf@@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Shape@sf@@QEAAXAEBVColor@2@@Z) в функции "public: void __cdecl StatBar::init(int,int,int,int,class sf::Color)" (?init@StatBar@@QEAAXHHHHVColor@sf@@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineThickness(float)" (__imp_?setOutlineThickness@Shape@sf@@QEAAXM@Z) в функции "public: void __cdecl StatBar::init(int,int,int,int,class sf::Color)" (?init@StatBar@@QEAAXHHHHVColor@sf@@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: unsigned char const * __cdecl sf::Image::getPixelsPtr(void)const " (__imp_?getPixelsPtr@Image@sf@@QEBAPEBEXZ) в функции "public: void __cdecl Settings::initOtherStates(class sf::RenderWindow &,class GUI &,class MainMenu &,class Help &,class Credits &,class Death &,class End &)" (?initOtherStates@Settings@@QEAAXAEAVRenderWindow@sf@@AEAVGUI@@AEAVMainMenu@@AEAVHelp@@AEAVCredits@@AEAVDeath@@AEAVEnd@@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции "public: void __cdecl Game::setDefaultWindowSettings(class sf::RenderWindow &)" (?setDefaultWindowSettings@Game@@QEAAXAEAVRenderWindow@sf@@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::View::View(void)" (__imp_??0View@sf@@QEAA@XZ) в функции "public: __cdecl GUI::GUI(class sf::RenderWindow &)" (??0GUI@@QEAA@AEAVRenderWindow@sf@@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::View::View(class sf::Rect<float> const &)" (__imp_??0View@sf@@QEAA@AEBV?$Rect@M@1@@Z) в функции "public: void __cdecl Settings::draw(class sf::RenderWindow &,class sf::Sprite &,int &,class GUI &,class MainMenu &,class Help &,class Credits &,class Death &,class End &,class sf::Music &)" (?draw@Settings@@QEAAXAEAVRenderWindow@sf@@AEAVSprite@3@AEAHAEAVGUI@@AEAVMainMenu@@AEAVHelp@@AEAVCredits@@AEAVDeath@@AEAVEnd@@AEAVMusic@3@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::View::setCenter(float,float)" (__imp_?setCenter@View@sf@@QEAAXMM@Z) в функции "public: void __cdecl Game::setPlayerCoordinateForView(float,float)" (?setPlayerCoordinateForView@Game@@QEAAXMM@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::View::reset(class sf::Rect<float> const &)" (__imp_?reset@View@sf@@QEAAXAEBV?$Rect@M@2@@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::View::getSize(void)const " (__imp_?getSize@View@sf@@QEBAAEBV?$Vector2@M@2@XZ) в функции "public: void __cdecl Game::setPlayerCoordinateForView(float,float)" (?setPlayerCoordinateForView@Game@@QEAAXMM@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::View::zoom(float)" (__imp_?zoom@View@sf@@QEAAXM@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ) в функции "public: __cdecl Button::Button(void)" (??0Button@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z) в функции "public: void __cdecl Button::init(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,bool)" (?init@Button@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH_N@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z) в функции "public: void __cdecl Button::init(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,bool)" (?init@Button@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH_N@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z) в функции "public: void __cdecl Button::init(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,bool)" (?init@Button@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH_N@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Text::setOutlineThickness(float)" (__imp_?setOutlineThickness@Text@sf@@QEAAXM@Z) в функции "public: void __cdecl Button::init(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,bool)" (?init@Button@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH_N@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: unsigned int __cdecl sf::Text::getCharacterSize(void)const " (__imp_?getCharacterSize@Text@sf@@QEBAIXZ) в функции "public: void __cdecl Button::init(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,bool)" (?init@Button@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH_N@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Text::Text(class sf::Text const &)" (__imp_??0Text@sf@@QEAA@AEBV01@@Z) в функции "public: void __cdecl Label::draw(class sf::RenderWindow &,int)" (?draw@Label@@QEAAXAEAVRenderWindow@sf@@H@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::SoundSource::setVolume(float)" (__imp_?setVolume@SoundSource@sf@@QEAAXM@Z) в функции "public: void __cdecl Settings::draw(class sf::RenderWindow &,class sf::Sprite &,int &,class GUI &,class MainMenu &,class Help &,class Credits &,class Death &,class End &,class sf::Music &)" (?draw@Settings@@QEAAXAEAVRenderWindow@sf@@AEAVSprite@3@AEAHAEAVGUI@@AEAVMainMenu@@AEAVHelp@@AEAVCredits@@AEAVDeath@@AEAVEnd@@AEAVMusic@3@@Z)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::SoundStream::play(void)" (__imp_?play@SoundStream@sf@@QEAAXXZ) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::SoundStream::stop(void)" (__imp_?stop@SoundStream@sf@@QEAAXXZ) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: enum sf::SoundSource::Status __cdecl sf::SoundStream::getStatus(void)const " (__imp_?getStatus@SoundStream@sf@@QEBA?AW4Status@SoundSource@2@XZ) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::SoundStream::setLoop(bool)" (__imp_?setLoop@SoundStream@sf@@QEAAX_N@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Music::Music(void)" (__imp_??0Music@sf@@QEAA@XZ) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::Music::openFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?openFromFile@Music@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2001: неразрешенный внешний символ ""private: virtual void __cdecl sf::Shape::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Shape@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""public: virtual class sf::Vector2<float> __cdecl sf::RectangleShape::getPoint(unsigned __int64)const " (?getPoint@RectangleShape@sf@@UEBA?AV?$Vector2@M@2@_K@Z)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""public: virtual unsigned __int64 __cdecl sf::RectangleShape::getPointCount(void)const " (?getPointCount@RectangleShape@sf@@UEBA_KXZ)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: static class sf::Time const sf::Time::Zero" (__imp_?Zero@Time@sf@@2V12@B)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B)"
+Game.obj : error LNK2001: неразрешенный внешний символ ""__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B)"
+C:\Users\art__\Desktop\Prototype\x64\Debug\Prototype.exe : fatal error LNK1120: неразрешенных внешних элементов: 107
